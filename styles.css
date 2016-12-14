@@ -189,10 +189,6 @@ body#page-question-type-stack-replacedollars pre ins {
     font-weight: bold;
 }
 
-body.ie .stack_abstract_graph {
-    /* Once IE can cope, we can delete this rule. */
-    display: none;
-}
 .stack_abstract_graph {
     background: #ffc;
     margin: 5px;
